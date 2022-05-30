@@ -242,7 +242,7 @@ cihaz fabrika ayarlarına sıfırlanacak ve çok daha fazlası olacak.
                                 👇👇👇
 
          \e[92mL1NKLER :- \e[96mhttps://bit.ly/3ild93L
-                    https://l24.im/khKt3s\e[91m
+                    \e[91m
 
                                  👆👆👆
 
